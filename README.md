@@ -1,34 +1,12 @@
 <!-- SECTION: HEADER -->
 <div align="center">
-  <table border="0" width="100%" style="border-collapse: collapse;">
-    <tr>
-      <td width="70%" valign="top" align="left">
-        <h1>Hi, My name is Mohak Agrawal</h1>
-        <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=C5A059&center=false&vCenter=true&width=450&lines=Full+Stack+Engineer;AI+Interface+Architect;Web3+Systems+Developer" alt="Typing SVG" />
-        </a>
-        <p style="font-size: 15px; color: #a5a5ab; line-height: 1.6;">
-          Frontend Engineer crafting high-performance React & React Native systems. Specialized in AI agent interfaces, decentralized Web3 protocols, and optimizing complex workflows under ambiguity.
-        </p>
-        <p align="center">
-          <a href="https://github.com/Mohak-Agrawal" target="_blank">
-            <img src="https://img.shields.io/badge/%20-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
-          </a>&nbsp;&nbsp;
-          <a href="https://www.linkedin.com/in/mohak-agrawal-dev" target="_blank">
-            <img src="https://custom-icon-badges.demolab.com/badge/%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
-          </a>&nbsp;&nbsp;
-          <a href="https://x.com/MohakDev" target="_blank">
-            <img src="https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" />
-          </a>
-        </p>
-      </td>
-      <td width="30%" align="center" valign="middle">
-        <a href="http://portfoliomohak.web.app" target="_blank">
-          <img src="https://ik.imagekit.io/v7ookvbkn/Porfolio%20Images/pfp3.png?tr=w-160,h-160,r-max" width="160" height="160" alt="Mohak Agrawal PFP" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <h1>Hi, My name is Mohak Agrawal</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=C5A059&center=true&vCenter=true&width=450&lines=Full+Stack+Engineer;AI+Interface+Architect;Web3+Systems+Developer" alt="Typing SVG" />
+  </a>
+  <p style="font-size: 15px; color: #a5a5ab; line-height: 1.6; max-width: 600px; margin: 15px auto 0 auto;">
+    Frontend Engineer crafting high-performance React & React Native systems. Specialized in AI agent interfaces, decentralized Web3 protocols, and optimizing complex workflows under ambiguity.
+  </p>
 </div>
 
 <!-- SECTION: PROJECTS -->
