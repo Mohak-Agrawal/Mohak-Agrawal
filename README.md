@@ -1,51 +1,119 @@
-Hi 👋 My name is Mohak Agrawal
-==============================
+<!-- SECTION: HEADER -->
+<div align="center">
+  <table border="0" width="100%" style="border-collapse: collapse;">
+    <tr>
+      <td width="70%" valign="top" align="left">
+        <h1>Hi, My name is Mohak Agrawal</h1>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=C5A059&center=false&vCenter=true&width=450&lines=Full+Stack+Engineer;AI+Interface+Architect;Web3+Systems+Developer" alt="Typing SVG" />
+        </a>
+        <p style="font-size: 15px; color: #a5a5ab; line-height: 1.6;">
+          Frontend Engineer crafting high-performance React & React Native systems. Specialized in AI agent interfaces, decentralized Web3 protocols, and optimizing complex workflows under ambiguity.
+        </p>
+        <p align="center">
+          <a href="https://github.com/Mohak-Agrawal" target="_blank">
+            <img src="https://img.shields.io/badge/%20-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+          </a>&nbsp;&nbsp;
+          <a href="https://www.linkedin.com/in/mohak-agrawal-dev" target="_blank">
+            <img src="https://custom-icon-badges.demolab.com/badge/%20-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+          </a>&nbsp;&nbsp;
+          <a href="https://x.com/MohakDev" target="_blank">
+            <img src="https://img.shields.io/badge/%20-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="X" />
+          </a>
+        </p>
+      </td>
+      <td width="30%" align="center" valign="middle">
+        <a href="http://portfoliomohak.web.app" target="_blank">
+          <img src="https://ik.imagekit.io/v7ookvbkn/Porfolio%20Images/pfp3.png?tr=w-160,h-160,r-max" width="160" height="160" alt="Mohak Agrawal PFP" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
-Full Stack Engineer | AI & Web3
--------------------------------
+<!-- SECTION: PROJECTS -->
+## Key Deployments & Impact
 
-I’m a full stack engineer who enjoys building AI-first and Web3-powered products from scratch.  
-I’ve worked as a founding engineer and co-founder, shipping real products, leading teams, and taking ideas from zero to pre-MVP and beyond.
+### **PokerCoach** — *Lead Engineer (Jul 2025 – Present)*
+> AI-powered poker training application delivering instant Game Theory Optimal (GTO) scenarios and tailored user telemetry.
+* **Performance:** Engineered a mobile-first React + Tailwind framework securing a **30% lift in retention**.
+* **Latency Optimization:** Designed a dynamic scenario-drill state engine, slashing calculation roundtrips by **45%**.
 
-* 🌍  Based in India (Gurugram / Dehradun)
-* 🖥️  Portfolio: [portfoliomohak.web.app](http://portfoliomohak.web.app)
-* ✉️  Contact: [dev.mohak.agrawal@gmail.com](mailto:dev.mohak.agrawal@gmail.com)
-* 🧠  Currently building AI-driven products, GTO systems, and Web3 interfaces
+### **FeedFresh** — *[getfeedfresh.com](https://www.getfeedfresh.com)*
+> High-growth subscription commerce engine designed for fresh food logistics.
+* **Core System:** Built a custom headless checkout interface integrated with a dynamic, geographic cold-chain delivery grid.
+* **Business Impact:** Achieved **+42% subscriber retention** through seamless recurring subscription scheduling workflows.
 
-### What I’m working on
-- 🧠 **PokerCoach** — AI-powered poker training platform with drills, GTO logic, and personalized feedback
-- 🤖 **AI-first interfaces** — intent-based chat UIs that trigger real product actions
-- 🔗 **Web3 systems** — WalletConnect, smart contracts, token-bound accounts, and on-chain automation
+### **Zuprano** — *[zuprano.com](https://zuprano.com)*
+> Premium visual branding and custom e-commerce solution for elite technology creators.
+* **Execution:** Handled branding overhaul and custom-built headless storefront.
+* **Metrics:** Combined custom image optimization algorithms with static generations to deliver **Instant Load Speeds** and a **+35% checkout conversion lift**.
+
+### **SoulCompass** — *[soulcompass-lemon.vercel.app](https://soulcompass-lemon.vercel.app)*
+> AI-native Gita verse resolver built on Claude AI.
+* **Logic:** Translates real-time customer mental state queries into Sanskrit Gita shlokas and practical modern interpretations within 48 hours from code to deployment.
+
+### **Indian Travel Point** — *[indiantravelpoint.com](https://indiantravelpoint.com)*
+> Lightweight, dynamic content travel directory.
+* **CMS:** Designed a customizable Firebase-powered CMS enabling rapid developer-free visual and copy updates.
 
 ---
 
-### Skills
+<!-- SECTION: TECHNICAL COMPETENCY -->
+## Technical Competency Grid
+
+```
+  ┌────────────────────────────────────────────────────────────────────────┐
+  │  FRONTEND CORE        │  BACKEND & DATABASE     │  AI & WEB3 LAYER     │
+  ├───────────────────────┼─────────────────────────┼──────────────────────┤
+  │ • React / Next.js     │ • Node.js / Express     │ • Headless Checkout  │
+  │ • React Native (iOS)  │ • SQL / Postgres        │ • Wagmi / Ethers.js  │
+  │ • TypeScript          │ • MongoDB / Firestore   │ • Token-bound (TBA)  │
+  │ • Tailwind CSS        │ • Firebase Serverless   │ • GPT-4 / Claude     │
+  │ • Framer Motion UI    │ • Rest API Architectures│ • GTO States Modules │
+  └────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<!-- SECTION: ARSENAL -->
+## Core Arsenal
 
 <p align="left">
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-native-colored.svg" width="36" height="36" alt="React Native" /></a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-<a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" width="36" height="36" alt="Solidity" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript" />
+  </a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" />
+  </a>&nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
+  </a>&nbsp;&nbsp;
+  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-native-colored.svg" width="40" height="40" alt="React Native" />
+  </a>&nbsp;&nbsp;
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="40" height="40" alt="Node.js" />
+  </a>&nbsp;&nbsp;
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="40" height="40" alt="Firebase" />
+  </a>&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="40" height="40" alt="TailwindCSS" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" />
+  </a>&nbsp;&nbsp;
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" width="40" height="40" alt="Solidity" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="40" height="40" alt="Figma" />
+  </a>
 </p>
 
 ---
 
-### Socials
-
-<p align="left">
-<a href="https://www.github.com/mohak-agrawal" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</a>
-<a href="https://www.linkedin.com/in/mohak-agrawal-6a865a193/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-</a>
-<a href="https://twitter.com/MohakAgrawal5" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-</a>
+<p align="center">
+  <sub><strong>Architected with exact intentionality. Powered by React, AI agents, and decentralized systems.</strong></sub>
 </p>
