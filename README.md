@@ -4,7 +4,7 @@
 <h1>Mohak Agrawal</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=0284C7&center=true&vCenter=true&width=520&lines=Product+Engineer;AI+Products%2C+Shipped+Not+Prototyped;0%E2%86%921+Engineer+for+Early-Stage+Teams" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=0284C7&center=true&vCenter=true&width=600&height=40&lines=Product+Engineer;AI+products%2C+shipped+not+prototyped;Zero+to+one+for+early-stage+teams" alt="Product Engineer" />
 </a>
 
 <p>
@@ -81,17 +81,17 @@ Full branding and tech delivery for [Tomatello](https://tomatello.com), All Abou
 | Zustand | REST / tRPC | RainbowKit / Solidity |
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="38" height="38" alt="TypeScript" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="38" height="38" alt="JavaScript" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="38" height="38" alt="React" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="38" height="38" alt="Next.js" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-native-colored.svg" width="38" height="38" alt="React Native" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="38" height="38" alt="Node.js" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="38" height="38" alt="Tailwind CSS" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="38" height="38" alt="Firebase" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="38" height="38" alt="MongoDB" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/solidity-colored.svg" width="38" height="38" alt="Solidity" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="38" height="38" alt="Figma" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude API" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
 ---
@@ -107,15 +107,6 @@ First Runner-Up, Startup Uttarakhand 2019. B.Tech in Computer Science, DIT Unive
 
 ---
 
-<!-- SECTION: GITHUB STATS -->
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=mohak-agrawal&show_icons=true&hide_border=true&theme=transparent&title_color=0284C7&icon_color=0284C7&hide=issues" height="150" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohak-agrawal&layout=compact&hide_border=true&theme=transparent&title_color=0284C7&langs_count=6" height="150" alt="Top Languages" />
-
-</div>
-
----
 
 <div align="center">
   <sub><strong>Two projects at a time. Both shipped.</strong></sub>
