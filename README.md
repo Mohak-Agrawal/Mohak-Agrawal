@@ -1,54 +1,62 @@
 <!-- SECTION: HEADER -->
 <div align="center">
-  <h1>Hi, My name is Mohak Agrawal</h1>
+  <h1>Hi, I'm Mohak Agrawal</h1>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=C5A059&center=true&vCenter=true&width=450&lines=Full+Stack+Engineer;AI+Interface+Architect;Web3+Systems+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=0284C7&center=true&vCenter=true&width=450&lines=Product+Engineer;Building+AI+Products+That+Ship;0%E2%86%921+Founder+Engineer" alt="Typing SVG" />
   </a>
   <p style="font-size: 15px; color: #a5a5ab; line-height: 1.6; max-width: 600px; margin: 15px auto 0 auto;">
-    Frontend Engineer crafting high-performance React & React Native systems. Specialized in AI agent interfaces, decentralized Web3 protocols, and optimizing complex workflows under ambiguity.
+    Product engineer building AI products that ship. I help startups turn ambitious ideas into production-ready products, combining product strategy, design, and engineering.
   </p>
+  <br/>
+  <a href="https://mohakagrawal.com" target="_blank">
+    <img src="https://img.shields.io/badge/mohakagrawal.com-0284C7?style=flat-square&logo=globe&logoColor=white" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/mohak-agrawal-dev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://x.com/MohakDev" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" alt="X" />
+  </a>
 </div>
 
+---
+
 <!-- SECTION: PROJECTS -->
-## Key Deployments & Impact
+## Shipped Products
 
-### **PokerCoach** — *Lead Engineer (Jul 2025 – Present)*
-> AI-powered poker training application delivering instant Game Theory Optimal (GTO) scenarios and tailored user telemetry.
-* **Performance:** Engineered a mobile-first React + Tailwind framework securing a **30% lift in retention**.
-* **Latency Optimization:** Designed a dynamic scenario-drill state engine, slashing calculation roundtrips by **45%**.
+### PokerCoach
+> AI-powered poker training app delivering instant Game Theory Optimal (GTO) scenarios and tailored user telemetry.
+* Built the mobile-first React + Tailwind product from 0 to launch as lead engineer.
+* Engineered a dynamic scenario-drill state engine, cutting calculation roundtrips by **45%** and lifting retention **30%**.
 
-### **FeedFresh** — *[getfeedfresh.com](https://www.getfeedfresh.com)*
-> High-growth subscription commerce engine designed for fresh food logistics.
-* **Core System:** Built a custom headless checkout interface integrated with a dynamic, geographic cold-chain delivery grid.
-* **Business Impact:** Achieved **+42% subscriber retention** through seamless recurring subscription scheduling workflows.
+### FeedFresh — *[getfeedfresh.com](https://www.getfeedfresh.com)*
+> Subscription commerce engine for fresh food logistics.
+* Built a headless checkout interface integrated with a geographic cold-chain delivery grid.
+* **+42% subscriber retention** through recurring subscription scheduling workflows.
 
-### **Zuprano** — *[zuprano.com](https://zuprano.com)*
-> Premium visual branding and custom e-commerce solution for elite technology creators.
-* **Execution:** Handled branding overhaul and custom-built headless storefront.
-* **Metrics:** Combined custom image optimization algorithms with static generations to deliver **Instant Load Speeds** and a **+35% checkout conversion lift**.
+### SoulCompass — *[soulcompass-lemon.vercel.app](https://soulcompass-lemon.vercel.app)*
+> AI-native Gita verse resolver built on the Claude API.
+* Translates real-time emotional queries into Sanskrit shlokas with modern interpretations.
+* Code to deployment in 48 hours.
 
-### **SoulCompass** — *[soulcompass-lemon.vercel.app](https://soulcompass-lemon.vercel.app)*
-> AI-native Gita verse resolver built on Claude AI.
-* **Logic:** Translates real-time customer mental state queries into Sanskrit Gita shlokas and practical modern interpretations within 48 hours from code to deployment.
-
-### **Indian Travel Point** — *[indiantravelpoint.com](https://indiantravelpoint.com)*
-> Lightweight, dynamic content travel directory.
-* **CMS:** Designed a customizable Firebase-powered CMS enabling rapid developer-free visual and copy updates.
+### Indian Travel Point — *[indiantravelpoint.com](https://indiantravelpoint.com)*
+> Dynamic travel content directory.
+* Firebase-powered CMS enabling rapid no-code content updates.
 
 ---
 
 <!-- SECTION: TECHNICAL COMPETENCY -->
-## Technical Competency Grid
+## Stack
 
 ```
   ┌────────────────────────────────────────────────────────────────────────┐
-  │  FRONTEND CORE        │  BACKEND & DATABASE     │  AI & WEB3 LAYER     │
-  ├───────────────────────┼─────────────────────────┼──────────────────────┤
-  │ • React / Next.js     │ • Node.js / Express     │ • Headless Checkout  │
-  │ • React Native (iOS)  │ • SQL / Postgres        │ • Wagmi / Ethers.js  │
-  │ • TypeScript          │ • MongoDB / Firestore   │ • Token-bound (TBA)  │
-  │ • Tailwind CSS        │ • Firebase Serverless   │ • GPT-4 / Claude     │
-  │ • Framer Motion UI    │ • Rest API Architectures│ • GTO States Modules │
+  │  FRONTEND                │  BACKEND & DATA         │  AI & WEB3        │
+  ├──────────────────────────┼─────────────────────────┼───────────────────┤
+  │  React / Next.js         │  Node.js / Express      │  Claude API       │
+  │  React Native (iOS)      │  PostgreSQL / Firestore  │  GPT-4 / Gemini   │
+  │  TypeScript              │  MongoDB                │  Wagmi / Ethers   │
+  │  Tailwind CSS            │  Firebase / Supabase    │  Solidity         │
+  │  Framer Motion           │  REST / tRPC            │  AI Agent Infra   │
   └────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -66,6 +74,9 @@
   </a>&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="40" height="40" alt="React" />
+  </a>&nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="40" height="40" alt="Next.js" />
   </a>&nbsp;&nbsp;
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-native-colored.svg" width="40" height="40" alt="React Native" />
@@ -93,5 +104,5 @@
 ---
 
 <p align="center">
-  <sub><strong>Architected with exact intentionality. Powered by React, AI agents, and decentralized systems.</strong></sub>
+  <sub><strong>Building with exact intentionality. Powered by React, AI, and a product-first mindset.</strong></sub>
 </p>
